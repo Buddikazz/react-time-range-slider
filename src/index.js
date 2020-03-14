@@ -142,7 +142,7 @@ TimeRangeSlider.defaultProps = {
   onChange: () => {},
   onChangeComplete: () => {},
   onChangeStart: () => {},
-  step: 15,
+  step: 5,
   value: {
     start: "00:00", 
     end: "23:59"
