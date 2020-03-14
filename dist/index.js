@@ -163,7 +163,7 @@ var TimeRangeSlider = function (_Component) {
         onChangeStart: this.onChangeStart.bind(this),
         onChange: this.onChange.bind(this),
         onChangeComplete: this.onChangeComplete.bind(this),
-        step: 15,
+        step: 5,
         value: { min: min, max: max } });
     }
   }]);
